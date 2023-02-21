@@ -1,4 +1,7 @@
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
+theme: minima
 plugins:
-- jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
